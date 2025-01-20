@@ -10,7 +10,6 @@ Este projeto é um exemplo de código em HTML e JavaScript que recebe as medidas
 
     Verifica se é possível formar um triângulo utilizando a condição:
     l1+l2>l3el2+l3>l1el1+l3>l2
-    l1+l2>l3el2+l3>l1el1+l3>l2
 
     Verifica se o triângulo é:
         Equilátero: Todos os lados são iguais (l1 == l2 == l3).
